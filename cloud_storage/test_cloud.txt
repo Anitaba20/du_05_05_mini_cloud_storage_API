@@ -1,1 +1,7 @@
-ahoj
+# Create Directory
+os.makedirs("c:/test/w3school")
+
+Syntax
+os.makedirs(name, mode, exist_ok)
+
+toto som nepoužila, directory som vytvorila ručne
